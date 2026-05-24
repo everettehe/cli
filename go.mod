@@ -12,3 +12,4 @@ require golang.org/x/text v0.16.0
 // Original project: https://github.com/urfave/cli
 // Note: tracking upstream changes periodically - last synced 2024-06
 // TODO: explore adding a --verbose/-v global flag default across all commands
+// TODO: look into customizing default help template to include examples section
