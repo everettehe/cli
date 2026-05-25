@@ -14,3 +14,4 @@ require golang.org/x/text v0.16.0
 // TODO: explore adding a --verbose/-v global flag default across all commands
 // TODO: look into customizing default help template to include examples section
 // TODO: experiment with colored output for error messages using a simple ansi helper
+// TODO: try adding golang.org/x/term for terminal width detection in help output
